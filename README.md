@@ -1,5 +1,5 @@
-# Rakamin Mini Project
-## Predict Clicked Ads Customer Classification with Machine Learning
+## Rakamin Mini Project
+# Predict Clicked Ads Customer Classification with Machine Learning
 
 ### **Goal**
 Enhance the efficacy of advertisements by pinpointing the right audience, thereby elevating response rates and profitability.
